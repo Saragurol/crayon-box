@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "type": "colors",
+      "id": 1,
+      "attributes": {
+        "name": "red",
+        "text": "the color red",
+        "backgroundColor": "rbg-red-900",
+        "height": 40,
+        "width": 30,
+        "fontSize": "text-xl",
+        "textColor": "text-red-900",
+        "image": "/img/snowGlobe.png"
+      }
+    },
+    {
+      "type": "colors",
+      "id": 2,
+      "attributes": {
+        "name": "green",
+        "text": "the color green",
+        "backgroundColor": "bg-green-600",
+        "height": 40,
+        "width": 30,
+        "fontSize": "text-xl",
+        "textColor": "text-green-900",
+        "image": "/img/wreath.png"
+      }
+    },
+    {
+      "type": "colors",
+      "id": 3,
+      "attributes": {
+        "name": "gold",
+        "text": "the color gold",
+        "backgroundColor": "bg--yellow-900",
+        "height": 40,
+        "width": 30,
+        "fontSize": "text-xl",
+        "textColor": "text-yellow-500",
+        "image": "/img/tree.png"
+      }
+    }
+  ]
+}
