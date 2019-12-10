@@ -4,9 +4,9 @@
       "type": "colors",
       "id": 1,
       "attributes": {
-        "name": "red",
+        "name": "Red",
         "text": "the color red",
-        "backgroundColor": "rbg-red-900",
+        "backgroundColor": "bg-red-800",
         "height": 40,
         "width": 30,
         "fontSize": "text-xl",
@@ -18,7 +18,7 @@
       "type": "colors",
       "id": 2,
       "attributes": {
-        "name": "green",
+        "name": "Green",
         "text": "the color green",
         "backgroundColor": "bg-green-600",
         "height": 40,
@@ -32,9 +32,9 @@
       "type": "colors",
       "id": 3,
       "attributes": {
-        "name": "gold",
+        "name": "Gold",
         "text": "the color gold",
-        "backgroundColor": "bg--yellow-900",
+        "backgroundColor": "bg-yellow-600",
         "height": 40,
         "width": 30,
         "fontSize": "text-xl",
