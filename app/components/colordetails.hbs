@@ -1,25 +1,8 @@
-<article class="color detailed">
-    <h1>THIS IS OUR CANVAS</h1>
-
-    <img src={{@color.img}} alt='name of color'>
-
-    <div class="details">
-        <h3>text {{@color.name}}</h3>
-        <div class="detail backgroundColor">
-            <span>backgroundColor:</span> {{@color.backgroundColor}}
-        </div>
-        <div class="detail height">
-            <span>height:</span> {{@color.height}}
-        </div>
-        <div class="detail width">
-            <span>width:</span> {{@color.width}}
-        </div>
-        <div class="detail fontSize">
-            <span>fontSize:</span> {{@color.fontSize}}
-        </div>
-        <div class="detail textColor">
-            <span>textColor:</span>{{@color.textColor}}
+<article class="color detailed px-4">
+    <div>
+        <h1 class="{{@color.textColor}} {{@color.fontSize}}">Canvas {{@color.name}}</h1>
+        <div class="border-indigo-600 border-8 {{@color.backgroundColor}}">
+            <img class="{{@color.height}} {{@color.weight}}" src={{@color.img}} alt='name of color'>
         </div>
     </div>
-
 </article>

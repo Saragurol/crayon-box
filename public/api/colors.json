@@ -7,8 +7,8 @@
         "name": "Red",
         "text": "the color red",
         "backgroundColor": "bg-red-800",
-        "height": 40,
-        "width": 30,
+        "height": "h-40",
+        "width": "w-30",
         "fontSize": "text-xl",
         "textColor": "text-red-900",
         "img": "/img/snowGlobe.png"
@@ -21,8 +21,8 @@
         "name": "Green",
         "text": "the color green",
         "backgroundColor": "bg-green-600",
-        "height": 40,
-        "width": 30,
+        "height": "h-40",
+        "width": "w-30",
         "fontSize": "text-xl",
         "textColor": "text-green-900",
         "img": "/img/wreath.png"
@@ -35,8 +35,8 @@
         "name": "Gold",
         "text": "the color gold",
         "backgroundColor": "bg-yellow-600",
-        "height": 40,
-        "width": 30,
+        "height": "h-40",
+        "width": "w-30",
         "fontSize": "text-xl",
         "textColor": "text-yellow-500",
         "img": "/img/tree.png"
