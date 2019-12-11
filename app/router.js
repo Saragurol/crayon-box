@@ -8,4 +8,5 @@ export default class Router extends EmberRouter {
 
 Router.map(function() {
   this.route('colors', { path:'/' });
+  this.route('color', {path: '/colors/:color_id'});
 });
