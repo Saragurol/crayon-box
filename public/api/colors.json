@@ -11,7 +11,7 @@
         "width": 30,
         "fontSize": "text-xl",
         "textColor": "text-red-900",
-        "image": "/img/snowGlobe.png"
+        "img": "/img/snowGlobe.png"
       }
     },
     {
@@ -25,7 +25,7 @@
         "width": 30,
         "fontSize": "text-xl",
         "textColor": "text-green-900",
-        "image": "/img/wreath.png"
+        "img": "/img/wreath.png"
       }
     },
     {
@@ -39,7 +39,7 @@
         "width": 30,
         "fontSize": "text-xl",
         "textColor": "text-yellow-500",
-        "image": "/img/tree.png"
+        "img": "/img/tree.png"
       }
     }
   ]

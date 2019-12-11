@@ -1,0 +1,9 @@
+<div>
+    {{!-- we know we are linking to the color route. we also know that this route requires a dynamic segment (:color_id). So, we need to pass in a @model argument so that the <LinkTo> component can generate the appropriate URL for that model. --}}
+   
+        <LinkTo @route='color' @model={{@color}}>
+        <h3 class='{{@color.backgroundColor}} px-4 py-2 text-white hover:bg-indigo-600 hover:text-white border-white border-2 rounded-lg'>{{@color.name}}</h3>
+        </LinkTo>
+    
+
+</div>
